@@ -59,24 +59,26 @@
         "patterns": ["Can I see the vegetarian options?","Do you have any vegetarian options??", "Please show me your best vegetarian foods", "I dont want to eat non veg", "I am vegetarian", "vegetarian", "is this place vegetarian?", "Veg only", "Veg Menu", "Show me the veg options", "Veg", "Veg food please"],
         "responses": [""]
     },
-	{"tag": "nonveg_enquiry",
+	
+    {"tag": "nonveg_enquiry",
         "patterns": ["Can I see the nonvegetarian options?","Do you have any non-vegetarian options??", "Please show me your best non-vegetarian foods", "I want to eat non veg", "non-veg menu please", "nonveg",  "Non-Veg food please", "Non-Veg Menu", "Show me the Chicken options", "Chicken", "Chicken-curry", "Mutton options", "Fish", "What type of fishes do you serve", "Chicken Biryani", "I want to order Fish Curry", "Do you have Chicken Kebabs", "Non-veg foods", "Do yiu have prawns fry in your menu", "prawns", "mutton biryani"],
         "responses": [""]
     },
-	{"tag":"Bread_options",
-		"patterns": ["What type of breads do you serve?", "Do you have chapati?", "I want Pita", "Tandoori rotis?", "Please show me the bread options", "I want to have Rumali roti", "Do you have Parathas", "Bread Menu", "What are the options in bread?", "I want to order Chapati"],
-		"responses": [""]
-	},
 	
-	{"tag":"Quick_Bites",
-		"patterns": ["I want to order a sandwitch", "What are the options for breakfast", "Breakfast menu", "Please show me the breakfast options", "Please show me the bread options", "quick bites", "what are the qucick options?", "Do you have maggie?", "I want something quick and healthy","What is there in snacks?", "show me some options in snacks", "Snacks menu", "I want to grab some quick bites"],
-		"responses": [""]
-	},
+    {"tag":"Bread_options",
+	"patterns": ["What type of breads do you serve?", "Do you have chapati?", "I want Pita", "Tandoori rotis?", "Please show me the bread options", "I want to have Rumali roti", "Do you have Parathas", "Bread Menu", "What are the options in bread?", "I want to order Chapati"],
+	"responses": [""]
+    },
+	
+    {"tag":"Quick_Bites",
+	"patterns": ["I want to order a sandwitch", "What are the options for breakfast", "Breakfast menu", "Please show me the breakfast options", "Please show me the bread options", "quick bites", "what are the qucick options?", "Do you have maggie?", "I want something quick and healthy","What is there in snacks?", "show me some options in snacks", "Snacks menu", "I want to grab some quick bites"],
+	"responses": [""]
+    },
 
-	{"tag":"Icecreams_bevrages",
-		"patterns": ["What are the options in beveages", "I want fruit juice", "I want to order a coffee", "What are the options in deserts?", "What are the options in icecreams", "desert options", "show me the desert options", "I want to order something sweet", "Do you have cold drinks","what are the options in cakes ans pastries", "bevrage manu", "I want to order ice tea"],
-		"responses": [""]
-	},	
+    {"tag":"Icecreams_bevrages",
+	"patterns": ["What are the options in bevrages", "I want fruit juice", "I want to order a coffee", "What are the options in deserts?", "What are the options in icecreams", "desert options", "show me the desert options", "I want to order something sweet", "Do you have cold drinks","what are the options in cakes ans pastries", "bevrage manu", "I want to order ice tea"],
+	"responses": [""]
+    },	
 	
 	
     {"tag": "recipe_enquiry",
